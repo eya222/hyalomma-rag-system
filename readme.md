@@ -253,7 +253,7 @@ print(public_url)`
 **Eya Naimi**\
 MSc Student -- Data science & AI Engineering\
 Collaborative Research Project with the National Veterinary School of Tunisia\
-📧 [LinkedIn](www.linkedin.com/in/eya-naimi-4511b3241) | [GitHub](https://github.com/eya222)
+📧 [LinkedIn](https://www.linkedin.com/in/eya-naimi-4511b3241) | [GitHub](https://github.com/eya222)
 
 * * * * *
 

@@ -255,15 +255,7 @@ MSc Student -- Data science & AI Engineering\
 Collaborative Research Project with the National Veterinary School of Tunisia\
 📧 [LinkedIn](https://www.linkedin.com/in/eya-naimi-4511b3241) | [GitHub](https://github.com/eya222)
 
-* * * * *
 
-✅ **Summary of changes:**
-
--   Improved grammar & flow.
-
--   Added **FastAPI deployment** section with examples.
-
--   Clarified the **Colab GPU workflow**.
 
 -   Strengthened **architecture** and **tech explanations**.
 
